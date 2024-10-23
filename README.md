@@ -14,6 +14,8 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 
 ![ERD](https://github.com/Sakshiistwal13/Zomato_SQL_Project/blob/main/erd.png)
 
+
+
 ## Database Setup
 ```sql
 CREATE DATABASE zomato_db;
